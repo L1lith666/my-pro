@@ -6,3 +6,5 @@ Technologies used:
 Brew
 git
 github
+icons
+Links
