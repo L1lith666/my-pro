@@ -1,2 +1,3 @@
-# my-pro
-test serverless with react
+# Lida pro
+
+AWS and ReactJS.
